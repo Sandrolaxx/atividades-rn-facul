@@ -1,6 +1,10 @@
-## 😎 Sobre o projeto
+## 😎 Sobre os projetos
 
-Trata-se de uma aplicação que apresenta meu nome completo na tela, tal aplicação foi requisitada na matéria de Inovações Tecnológicas no curso de Engenharia de Software do [Centro Universitário FAG](https://www.fag.edu.br/). Foi desenvolvido utilizando Typescript(superset de JS) e o framework React Native. 
+**Atividade 01**: Trata-se de uma aplicação que apresenta meu nome completo na tela.
+
+**Atividade 02**: Trata-se de uma aplicação que apresenta as informações de um evento fictício, desenvolvida com intuito de aplicar o conceito de passagem de propriedades entre componentes.
+
+Tais atividades foram requisitadas na matéria de Inovações Tecnológicas no curso de Engenharia de Software do [Centro Universitário FAG](https://www.fag.edu.br/). Foi desenvolvido utilizando Typescript(superset de JS) e o framework React Native.  conceito de passagem de propriedades entre componentes.
 
 ---
 
@@ -13,10 +17,13 @@ Trata-se de uma aplicação que apresenta meu nome completo na tela, tal aplica�
 
 ---
 
-## 🖼🖌Telas do projeto
+## 🖼🖌Telas dos projetos
 
-###  *Home Screen*
+###  *Home Screen - Atividade 01*
 ![atividade_01](https://user-images.githubusercontent.com/61207420/184187878-eee97f55-cceb-45d5-ac01-f9b2be44aa7d.gif)
+
+###  *Home Screen - Atividade 02*
+![atividade_02](https://user-images.githubusercontent.com/61207420/185266475-b9034deb-1c03-441d-b659-28a2f9a04e01.png)
 
 ---
 
