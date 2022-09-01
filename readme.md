@@ -4,6 +4,8 @@
 
 **Atividade 02**: Trata-se de uma aplicação que apresenta as informações de um evento fictício, desenvolvida com intuito de aplicar o conceito de passagem de propriedades entre componentes.
 
+**Atividade 03**: Criar um contador que some e subtrai o valor informado, também a opção de resetar o campo.
+
 Tais atividades foram requisitadas na matéria de Inovações Tecnológicas no curso de Engenharia de Software do [Centro Universitário FAG](https://www.fag.edu.br/). Foi desenvolvido utilizando Typescript(superset de JS) e o framework React Native.  conceito de passagem de propriedades entre componentes.
 
 ---
@@ -24,6 +26,16 @@ Tais atividades foram requisitadas na matéria de Inovações Tecnológicas no c
 
 ###  *Home Screen - Atividade 02*
 ![atividade_02](https://user-images.githubusercontent.com/61207420/185266475-b9034deb-1c03-441d-b659-28a2f9a04e01.png)
+
+###  *Home Screen - Atividade 03*
+![Captura de tela de 2022-08-31 22-22-13](https://user-images.githubusercontent.com/61207420/187813659-f4c4bde5-952b-4c95-a223-9b70961ad67f.png)
+
+###  *Soma - Atividade 03*
+![Captura de tela de 2022-08-31 22-22-25](https://user-images.githubusercontent.com/61207420/187813654-38347026-48b7-45e5-9ab7-780fa5172bfc.png)
+
+###  *Subtração - Atividade 03*
+![Subtração](https://user-images.githubusercontent.com/61207420/187813640-baeb18eb-3a45-4019-899a-ba6503378656.png)
+
 
 ---
 
