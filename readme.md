@@ -6,6 +6,8 @@
 
 **Atividade 03**: Criar um contador que some e subtrai o valor informado, também a opção de resetar o campo.
 
+**Atividade 04**: Buscar informações realizando uma chamada HTTP e apresentar a listagem das mesmas. A informação se trata dos repositórios do Git da rocketseat, onde é necessário buscar essas informações e possibilitar que seja aberto a página do repo com base em seu link.
+
 Tais atividades foram requisitadas na matéria de Inovações Tecnológicas no curso de Engenharia de Software do [Centro Universitário FAG](https://www.fag.edu.br/). Foi desenvolvido utilizando Typescript(superset de JS) e o framework React Native.  conceito de passagem de propriedades entre componentes.
 
 ---
@@ -36,6 +38,11 @@ Tais atividades foram requisitadas na matéria de Inovações Tecnológicas no c
 ###  *Subtração - Atividade 03*
 ![Subtração](https://user-images.githubusercontent.com/61207420/187813640-baeb18eb-3a45-4019-899a-ba6503378656.png)
 
+###  *Listagem Informações após Request - Atividade 04*
+![TelaListagemInfos](https://user-images.githubusercontent.com/61207420/190289389-1b4b00c8-9e08-4342-8239-3229e233972c.png)
+
+###  *Abrindo Repositório com seu Link - Atividade 04*
+![AbrindoRepoComSeuLink](https://user-images.githubusercontent.com/61207420/190289387-0963f482-cd97-49f0-a368-efb46ca17daf.png)
 
 ---
 
